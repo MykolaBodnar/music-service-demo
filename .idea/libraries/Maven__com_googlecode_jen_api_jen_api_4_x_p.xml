@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.googlecode.jen-api:jen-api:4.x.p">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/googlecode/jen-api/jen-api/4.x.p/jen-api-4.x.p.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/googlecode/jen-api/jen-api/4.x.p/jen-api-4.x.p-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/googlecode/jen-api/jen-api/4.x.p/jen-api-4.x.p-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
